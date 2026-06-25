@@ -30,6 +30,8 @@
 
 [Declaração de Conclusão do Projeto de Residência em TIC - ABCIA](./UFRR/declaracao-conclusao-abcia.pdf)
 
+[Declaração Multirão Letramento Digtal para Idosos ao HU - PET-Saúde Digital](./UFRR/SEI_61880549_Declaracao___SEI.pdf)
+
 #### 🖇️ __ONE BIT CODE__
 
 [Start na Programação FrontEnd](./ONE%20BIT%20CODE/Start%20One%20Bit%20Code%20CSS%20e%20HTML.pdf)
